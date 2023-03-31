@@ -1,0 +1,5 @@
+As permissoes
+
+001 - Permite ver o consultar
+002 - Permite ver adicionar e editar
+003 - Permite ver Administração
